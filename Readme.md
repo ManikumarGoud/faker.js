@@ -11,6 +11,13 @@
 
 ## Demo
 
+Team3
+
+Sandeep
+Shareef
+Swetha
+Manikumar
+
 [https://rawgit.com/Marak/faker.js/master/examples/browser/index.html](https://rawgit.com/Marak/faker.js/master/examples/browser/index.html)
 
 ## Hosted API Microservice
@@ -44,7 +51,7 @@ curl http://faker.hook.io?property=name.findName&locale=de
     var randomCard = faker.helpers.createCard(); // random contact card containing many properties
 
 ## API
-  ##MY FIRST COMMIT
+  
 
 ### Faker.fake()
 
@@ -129,6 +136,11 @@ This will interpolate the format string with the value of methods `name.lastName
   * ethereumAddress
   * iban
   * bic
+* food
+  * indian
+  * chinese
+  * italian
+  * continental
 * hacker
   * abbreviation
   * adjective
